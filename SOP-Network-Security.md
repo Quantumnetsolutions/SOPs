@@ -71,10 +71,10 @@ Accounting:
 
 Definitions:
 
-Policy: Broad, overarching guidance on network security.
-SOP: Detailed instructions on what, when, and why network security measures are implemented.
-Work Instructions: In-depth, step-by-step directions for specific network security tasks.
-AAA Standards: Authentication, Authorization, and Accounting standards.
+- Policy: Broad, overarching guidance on network security.
+- SOP: Detailed instructions on what, when, and why network security measures are implemented.
+- Work Instructions: In-depth, step-by-step directions for specific network security tasks.
+- AAA Standards: Authentication, Authorization, and Accounting standards.
 
 Revision History:
 12/18/2023: SOP_Template.md created by Scotty Jokon.
