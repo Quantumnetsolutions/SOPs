@@ -2,7 +2,7 @@
 # Purpose:
 
 **The purpose of this Standard Operating Procedure (SOP) is to establish a comprehensive framework for managing network security within 
-Quantumnet solutions. This procedure aims to ensure the confidentiality, integrity, and availability of information by outlining the steps and responsibilities associated with network security management. Also implementing the AAA standard using Authentication, authorization, and accounting   It is aligned with the organization's overarching security policies and standards, including [mention specific policies or standards].** 
+Quantumnet solutions. This procedure aims to ensure the confidentiality, integrity, and availability of information by outlining the steps and responsibilities associated with network security management. Also implementing the AAA standard using Authentication, authorization, and accounting. It is aligned with the overarching  Quantumnet solutions security policies and standards.** 
 
 # Scope:
 **This SOP applies to all areas of the organization where network systems and data are utilized. It encompasses the entire network infrastructure, including but not limited to servers, routers, switches, firewalls, and end-user devices.**
