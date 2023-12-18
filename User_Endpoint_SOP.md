@@ -44,8 +44,8 @@ This SOP applies to IT personnel responsible for provisioning, configuring, and 
 - Remove user accounts and configurations from the endpoint.
 ## References:
 
-- Company IT Security Policies
-- Device Configuration Guidelines
+- Tarantino Tech Security Policies
+- Device Configuration (Windows) Guidelines
 ## Definitions:
 
 - Endpoints: Devices used by employees to access organizational resources.
