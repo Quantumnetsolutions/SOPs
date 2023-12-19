@@ -1,105 +1,63 @@
 # Tarantino Tech Onboarding Policy
 
 
-## I. Introduction
+## I. Introduction:
 
-1. Briefly describe the purpose of the policy and its alignment with the company's growth and security goals.
+This policy outlines the process for integrating new employees into the company's IT environment. It ensures new hires receive the necessary equipment, software, access, and training to be productive and secure from day one. This policy complies with company security standards and industry best practices.
 
-2. Mention the types of users covered by the policy (existing and new employees, contractors).
+## Scope:
 
+This policy applies to all new employees, regardless of position or department. It covers the provisioning of hardware, software, network access, user accounts, security awareness training, and basic IT support.
 
+## Responsibilities:
 
-## II. Network Infrastructure Upgrade
+IT Department: Responsible for implementing, reviewing, and updating this policy, provisioning equipment and software, creating user accounts, and providing security awareness training.
+Manager: Responsible for communicating the policy to new hires, ensuring completion of required training, and addressing any IT-related needs throughout the onboarding process.
+New Hire: Responsible for attending training sessions, following security protocols, and requesting assistance when needed.
 
-1. Outline the proposed network upgrade plan, including hardware (switches, routers, firewalls), software (network management tools, security solutions), and wireless improvements.
+## Prerequisites:
 
+New hire information provided by Human Resources.
+Approved budget for equipment and software.
+Access to IT ticketing system and training materials.
+Procedure:
 
-2. Explain how the upgrade will address scalability, data security, and communication efficiency.
+1. Pre-Onboarding:
 
+IT department receives new hire information from HR.
+Manager informs new hire about IT onboarding process and provides necessary documentation.
+2. Equipment and Software Provisioning:
 
-3. Briefly touch on the implementation timeline and potential disruptions.
+IT department orders and configures hardware (laptop, phone, etc.) based on role requirements.
+IT department installs essential software and configures applications based on role needs.
+3. Network Access and User Accounts:
 
+IT department creates network login credentials and access permissions appropriate for the role.
+New hire sets up password and completes security awareness training.
+4. Training and Support:
 
+IT department provides basic training on company software, network access, and security protocols.
+Manager guides new hire through role-specific applications and workflows.
+IT department provides ongoing support via ticketing system and/or designated support channels.
+5. Evaluation and Feedback:
 
-## III. Data Security Measures
+Manager gathers feedback from new hire about their IT experience during onboarding.
+IT department reviews feedback and identifies areas for improvement in the onboarding process.
+References:
 
-1. Define acceptable use policies for company IT resources (email, devices, file sharing).
+Company Security Policy
+IT Security Awareness Training Materials
+New Hire Welcome Guide
+Definitions:
 
+Hardware: Physical equipment such as laptops, phones, and printers.
+Software: Applications and programs used by employees.
+Network Access: Permission to connect to the company's network and internal resources.
+User Accounts: Unique identifiers used to access systems and applications.
+Security Awareness Training: Education on recognizing and preventing security threats.
+Revision History:
 
-2. Implement multi-factor authentication (MFA) for all user accounts.
-
-
-3. Encrypt sensitive data both at rest and in transit.
-
-
-4. Implement regular vulnerability assessments and penetration testing.
-
-
-5. Train employees on cybersecurity best practices (phishing awareness, password hygiene).
-
-
-## IV. File Sharing and Collaboration
-
-1. Choose a secure and centralized platform for file sharing and collaboration (e.g., cloud storage, internal server).
-
-
-2. Define access control and permission levels for different departments and user roles.
-
-
-3. Train employees on proper file sharing protocols and document version control.
-
-
-## V. Business Continuity and Backup Solutions
-
-1. Implement a robust backup solution for all critical data, including regular automated backups and offsite storage.
-
-
-
-2. Develop a disaster recovery plan outlining procedures in case of network outages or cyberattacks.
-
-
-
-
-3. Test the backup and recovery plan regularly to ensure its effectiveness.
-
-
-
-
-## VI. IT Onboarding Process
-
-1. Define the steps involved in onboarding new employees, including account creation, access provisioning, device setup, and software installation.
-
-
-
-2. Provide new employees with IT orientation sessions and training on security policies, acceptable use, and collaboration tools.
-
-
-
-3. Assign a dedicated IT contact person for questions and support.
-
-
-
-
-## VII. Policy Review and Updates
-
-1. Schedule regular reviews of the IT onboarding policy to ensure it remains current and effective.
-
-
-
-
-2. Update the policy to reflect changes in technology, regulatory requirements, or company procedures.
-
-
-
-
-## VIII. Conclusion
-
-1. Reiterate the importance of adherence to the IT onboarding policy for maintaining a secure, efficient, and collaborative work environment.
-
-
-
-
-2. Encourage communication and feedback from employees regarding the onboarding process and IT services.
+2023-12-18: Version 1.0 released by Kevin Williams
 
 
 
